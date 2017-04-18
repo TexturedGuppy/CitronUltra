@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: deba445c8e113c94b8ff958c27063ef1
+timeCreated: 1475885189
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TVileSpriteSheet_0
+    21300002: TVileSpriteSheet_1
+    21300004: TVileSpriteSheet_2
+    21300006: TVileSpriteSheet_3
+    21300008: TVileSpriteSheet_4
+    21300010: TVileSpriteSheet_5
+    21300012: TVileSpriteSheet_6
+    21300014: TVileSpriteSheet_7
+    21300016: TVileSpriteSheet_8
+    21300018: TVileSpriteSheet_9
+    21300020: TVileSpriteSheet_10
+    21300022: TVileSpriteSheet_11
+    21300024: TVileSpriteSheet_12
+    21300026: TVileSpriteSheet_13
+    21300028: TVileSpriteSheet_14
+    21300030: TVileSpriteSheet_15
+    21300032: TVileSpriteSheet_16
+    21300034: TVileSpriteSheet_17
+    21300036: TVileSpriteSheet_18
+    21300038: TVileSpriteSheet_19
+    21300040: TVileSpriteSheet_20
+    21300042: TVileSpriteSheet_21
+    21300044: TVileSpriteSheet_22
+    21300046: TVileSpriteSheet_23
+    21300048: TVileSpriteSheet_24
+    21300050: TVileSpriteSheet_25
+    21300052: TVileSpriteSheet_26
+    21300054: TVileSpriteSheet_27
+    21300056: TVileSpriteSheet_28
+    21300058: TVileSpriteSheet_29
+    21300060: TVileSpriteSheet_30
+    21300062: TVileSpriteSheet_31
+    21300064: TVileSpriteSheet_32
+    21300066: TVileSpriteSheet_33
+    21300068: TVileSpriteSheet_34
+    21300070: TVileSpriteSheet_35
+    21300072: TVileSpriteSheet_36
+    21300074: TVileSpriteSheet_37
+    21300076: TVileSpriteSheet_38
+    21300078: TVileSpriteSheet_39
+    21300080: TVileSpriteSheet_40
+    21300082: TVileSpriteSheet_41
+    21300084: TVileSpriteSheet_42
+    21300086: TVileSpriteSheet_43
+    21300088: TVileSpriteSheet_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TVileSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 597
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 556
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 556
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 499
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 499
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 499
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 499
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 499
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 499
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 438
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 438
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 438
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 438
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 438
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 438
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 390
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 390
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 390
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 390
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 390
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 390
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 390
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 390
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 390
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 390
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 341
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 341
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 341
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 341
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 341
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 341
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 341
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 341
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 341
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 341
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 341
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 301
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 301
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 257
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TVileSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 257
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
